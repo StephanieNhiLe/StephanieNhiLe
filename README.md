@@ -7,12 +7,13 @@ I'm a Computer Science & Data Science student at Augustana College.
 
 I'm a quick-learning software engineer and enthusiastic in developing user-centric products in a collaborative team environment.
 
-- I'm currently working as a Mobile Developer for [OSL Academy][OSL] and a Front-end Developer for [EDGE Center][EDGE]
+- I'm currently working as a Mobile Developer for [OSL Academy][OSL] and a Front-end Developer for [EDGE Center][EDGE].
+- I'm also assisting [NLP in the Social Sciences][NLP] as an NLP Researcher.
 
 - :telescope: As an upcoming new 2024 grad, I'm looking for positions related to Software Engineer contributing to both front-end and back-end development for web appplications.
 
 - I'm passionate in contributing to my tech community and creating innovative solutions:
-  - Chosen as one of sponsored 180 [Google Cloud Student Leader Innovator][CloudInnovator] in [Google Cloud Next'23][GCN'23]
+  - Chosen as one of sponsored 180 [Google Cloud Student Leader Innovators][CloudInnovator] in [Google Cloud Next'23][GCN'23]
   - Founded [Vibrant Augie Tech Fest][VibrantAugie] - the first immersive interactive tech showcase in Quad Cities.
   
 - Fun facts: I'm also a 3D Designer and Photographer as my hobbies.
@@ -42,27 +43,9 @@ I'm a quick-learning software engineer and enthusiastic in developing user-centr
     <img height="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StephanieNhiLe&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-
-<!--
-[![Stephanie's GitHub stats](https://github-readme-stats-git-master-stephanie-nhi-les-projects.vercel.app/api?username=StephanieNhiLe)](https://github.com/StephanieNhiLe/github-readme-stats)
--->
-
-<!--
-**StephanieNhiLe/StephanieNhiLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [OSL]: https://www.augustana.edu/node/15941
 [EDGE]: https://www.linkedin.com/company/edge-entrepreneur-center/mycompany/
+[NLP]: https://github.com/NLP-in-the-Social-Sciences
 [VibrantAugie]: https://www.instagram.com/vibrantaugie.fest/
 [CloudInnovator]: https://cloud.google.com/innovators?hl=en
 [GCN'23]: https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next-23
