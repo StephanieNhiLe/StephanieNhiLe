@@ -10,7 +10,7 @@ I'm a quick-learning software engineer and enthusiastic in developing user-centr
 - I'm currently working as a Mobile Developer for [OSL Academy][OSL] and a Front-end Developer for [EDGE Center][EDGE].
 - I'm also assisting [NLP in the Social Sciences][NLP] as an NLP Researcher.
 
-- :four_leaf_clover: As an upcoming new 2024 grad, I'm actively open for full-time software engineer Summer 2024 or any related positions.
+- :four_leaf_clover: I'm actively open for full-time software engineer Summer 2024 or any related positions.
 
 - I'm passionate in contributing to my tech community and creating innovative solutions:
   - Chosen as one of sponsored 180 [Google Cloud Student Leader Innovators][CloudInnovator] in [Google Cloud Next'23][GCN'23]
