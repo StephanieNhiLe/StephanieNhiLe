@@ -13,7 +13,7 @@ I'm a quick-learning software engineer and enthusiastic in developing user-centr
 - :four_leaf_clover: I'm actively open for full-time software engineer Summer 2024 or any related positions.
 
 - I'm passionate in contributing to my tech community and creating innovative solutions:
-  - Chosen as one of sponsored 180 [Google Cloud Student Leader Innovators][CloudInnovator] in [Google Cloud Next'23][GCN'23]
+  - Chosen as [one][Evidence] of sponsored 180 [Google Cloud Student Leader Innovators][CloudInnovator] in [Google Cloud Next'23][GCN'23]
   - Founded [Vibrant Augie Tech Fest][VibrantAugie] - the first immersive interactive tech showcase in Quad Cities.
   
 - Fun facts: I'm also a 3D Designer and Photographer as my hobbies.
@@ -49,3 +49,4 @@ I'm a quick-learning software engineer and enthusiastic in developing user-centr
 [VibrantAugie]: https://www.instagram.com/vibrantaugie.fest/
 [CloudInnovator]: https://cloud.google.com/innovators?hl=en
 [GCN'23]: https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next-23
+[Evidence]: https://www.linkedin.com/feed/update/urn:li:activity:7138202953185726464/
