@@ -36,12 +36,13 @@ I'm a quick-learning software engineer and enthusiastic in developing user-centr
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-### Github Statistics
-<p align="left">
-    <img height="49.5%" src="http://github-readme-streak-stat-git-8a3493-stephanie-nhi-les-projects.vercel.app?user=StephanieNhiLe&theme=algolia&border_radius=8" alt="GitHub Streak" />
-    <img height="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StephanieNhiLe&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+<!-- --- -->
+<!-- ### Github Statistics -->
+
+<!-- <p align="left"> -->
+<!--     <img height="49.5%" src="http://github-readme-streak-stat-git-8a3493-stephanie-nhi-les-projects.vercel.app?user=StephanieNhiLe&theme=algolia&border_radius=8" alt="GitHub Streak" /> -->
+<!--     <img height="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StephanieNhiLe&layout=compact&langs_count=8&theme=algolia"/> -->
+<!-- </p> -->
 
 [OSL]: https://www.augustana.edu/node/15941
 [EDGE]: https://www.linkedin.com/company/edge-entrepreneur-center/mycompany/
