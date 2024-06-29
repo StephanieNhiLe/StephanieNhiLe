@@ -1,5 +1,5 @@
 ### Hi there, I'm Stephanie Nhi 👋
-Software Engineer • Full-stack Developer • Mobile Developer • UI/UX Designer • Product Designer 
+Software Engineer • Full-stack Developer • UI/UX Designer • Product Designer 
 
 ---
 ### About Me
@@ -7,7 +7,7 @@ I'm a Computer Science & Data Science student at Augustana College.
 
 I'm a quick-learning software engineer and enthusiastic in developing user-centric products in a collaborative team environment.
 
-- I'm currently working as a Mobile Developer for [OSL Academy][OSL] and a Front-end Developer for [EDGE Center][EDGE].
+- I'm currently working as a Full-stack Developer for [Vike][Vike] 
 - I'm also assisting [NLP in the Social Sciences][NLP] as an NLP Researcher.
 
 - :four_leaf_clover: I'm actively open for full-time software engineer Summer 2024 or any related positions.
@@ -26,7 +26,6 @@ I'm a quick-learning software engineer and enthusiastic in developing user-centr
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="40" height="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -34,6 +33,15 @@ I'm a quick-learning software engineer and enthusiastic in developing user-centr
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain-wordmark.svg" title="JUnit" alt="JUnit" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg" title="Splunk" alt="Splunk" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
 </div>
 
 <!-- --- -->
@@ -44,7 +52,7 @@ I'm a quick-learning software engineer and enthusiastic in developing user-centr
 <!--     <img height="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StephanieNhiLe&layout=compact&langs_count=8&theme=algolia"/> -->
 <!-- </p> -->
 
-[OSL]: https://www.augustana.edu/node/15941
+[Vike]: https://www.vike.live
 [EDGE]: https://www.linkedin.com/company/edge-entrepreneur-center/mycompany/
 [NLP]: https://github.com/NLP-in-the-Social-Sciences
 [VibrantAugie]: https://www.instagram.com/vibrantaugie.fest/
