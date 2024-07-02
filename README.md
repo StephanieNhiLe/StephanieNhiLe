@@ -1,11 +1,17 @@
 ### Hi there, I'm Stephanie Nhi 👋
 Software Engineer • Full-stack Developer • UI/UX Designer • Product Designer 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/lepham2805/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ---
 ### About Me
-I'm a Computer Science & Data Science student at Augustana College. 
+I'm working as a Software Engineer and Full-stack Developer contributing to both back-end and front-end.
 
-I'm a quick-learning software engineer and enthusiastic in developing user-centric products in a collaborative team environment.
+I'm a quick-learning software engineer, enthusiastic about developing user-centric products in a collaborative team environment.
 
 - I'm currently working as a Full-stack Developer for [Vike][Vike] 
 - I'm also assisting [NLP in the Social Sciences][NLP] as an NLP Researcher.
