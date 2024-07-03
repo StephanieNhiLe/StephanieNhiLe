@@ -2,7 +2,7 @@
 Software Engineer • Full-stack Developer • UI/UX Designer • Product Designer 
 <div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/lepham2805/">
+  <a href="https://www.linkedin.com/in/stephanie-nhi-le/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
